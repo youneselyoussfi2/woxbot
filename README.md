@@ -1,5 +1,5 @@
 
-# wox-MD
+# younes 
 
 <p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/feedc19b6718353a06a56.jpg"/></a>
 
@@ -15,4 +15,5 @@
 
 ---------------------------------   
 
- ###  Developer :- mohamed bella 
+ ###  Developer :-younes elyoussfi 
+
